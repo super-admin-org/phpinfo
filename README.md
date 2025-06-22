@@ -5,7 +5,7 @@ Installation
 ------------
 
 ```bash
-composer require super-admin-ext/phpinfo
+composer require super-admin-org/phpinfo
 ```
 
 If you want to add a link entry in the left menu, use the following command to import

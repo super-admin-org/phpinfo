@@ -1,9 +1,9 @@
 {
-    "name": "super-admin-ext/phpinfo",
+    "name": "super-admin-org/phpinfo",
     "description": "an small plugin to show phpinfo right in your super-admin enviourment.",
     "type": "library",
     "keywords": ["super-admin", "extension"],
-    "homepage": "https://github.com/super-admin-ext/phpinfo",
+    "homepage": "https://github.com/super-admin-org/phpinfo",
     "license": "MIT",
     "authors": [
         {
@@ -13,10 +13,10 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "super-admin-org/super-admin": "~1.0"
+        "super-admin-org/super-admin": "^1.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "~6.0"
+        "phpunit/phpunit": ">=6.0"
     },
     "autoload": {
         "psr-4": {
